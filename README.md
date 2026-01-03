@@ -13,15 +13,8 @@
 <!-- ============================================ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+ML+Engineer;Building+Intelligent+AI+Systems;RAG+%7C+Computer+Vision+%7C+NLP;Full-Stack+AI+Developer)](https://git.io/typing-svg)
 
-### ### Software Engineering Fresher | Backend & Web Development | Tech Enthusiast
-
-```
-🤖 Software Engineering Fresher | Python • Backend • Web
-Recent Graduate | Hands-on Project Experience
-Open to Full-Time Roles & Internships
-
-```
-
+### AI Developer | Machine Learning Engineer | Full-Stack AI Developer
+🤖 AI Developer | RAG Systems | Computer Vision | Speech Processing | NLP
 </div>
 
 ---
