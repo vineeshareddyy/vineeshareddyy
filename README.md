@@ -11,10 +11,10 @@
 <!-- ============================================ -->
 <!-- 2. TYPING ANIMATION - Directly below your name -->
 <!-- ============================================ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+ML+Engineer;Building+Intelligent+AI+Systems;RAG+%7C+Computer+Vision+%7C+NLP;Full-Stack+AI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Engineering+Fresher;Python+%7C+Backend+%7C+Web+Development;Hands-on+Projects+%26+Internship+Experience;Open+to+Full-Time+Roles+%26+Internships)](https://git.io/typing-svg)
 
-### AI Developer | Machine Learning Engineer | Full-Stack AI Developer
-🤖 AI Developer | RAG Systems | Computer Vision | Speech Processing | NLP
+### Software Engineering Fresher | Backend & Web Development | AI Developer | Tech Enthusiast
+🤖 AI Developer | RAG Systems | Software Engineer | Speech Processing | NLP
 </div>
 
 ---
@@ -32,18 +32,20 @@
 
 ## 🙋‍♀️ About Me
 
-I'm an **AI Developer** with hands-on expertise in **Machine Learning, Deep Learning, RAG Systems, Computer Vision, Speech Processing, and NLP**.
+I am a recent **Information Technology Graduate** and **Software Engineering fresher** with strong fundamentals in **Python, backend development, databases, and web technologies,** along with practical exposure to **AI and machine learning** concepts through projects and internship work.
+I am currently working as an **AI Developer Intern** at **Lanciere Technologies Private Limited**, where I am gaining hands-on industry experience by contributing to backend services, data-driven features, and  developing production-ready AI applications including RAG-based chatbots, voice detection systems, face authentication, and emotion detection models. This role is helping me understand real-world software development practices, teamwork, and scalable system design.
 
-Currently working at **Lanciere Technologies Private Limited, Hyderabad**, where I develop production-ready AI applications including RAG-based chatbots, voice detection systems, face authentication, and emotion detection models.
+### Areas of Experience & Learning:
 
-I specialize in:
+- 💻 **Software Development** — Python-based application development with strong fundamentals
+- 🌐 **Backend & Web Development** — Django, Flask, FastAPI, REST APIs, basic frontend integration
+- 🗄️ **Databases & Data Handling** — MySQL, SQLite, data modeling, CRUD operations
+- 🤖 **AI & Machine Learning (Project & Internship Exposure)** — ML basics, semantic search, embeddings, RAG concepts
+- 🎤 **Speech & Audio Processing** — speech emotion detection, MFCC feature extraction, audio-based applications
+- 👁️ **Computer Vision (Exposure)** — face authentication, image processing, real-time detection tasks
+- ⚙️ **System & Application Features** — background tasks, notifications, and real-time components using Celery, Redis, and Django Channels
 
-- 🧠 **AI/ML Development** — RAG pipelines, semantic search, embedding models, LLMs
-- 🎤 **Speech & Audio Processing** — Emotion detection, voice recognition, audio classification
-- 👁️ **Computer Vision** — Face authentication, image processing, real-time detection
-- 💬 **NLP & Conversational AI** — Chatbots, multilingual support, context-aware systems
-- 🌐 **Full-Stack AI** — React.js, FastAPI, Django, Flask for end-to-end AI solutions
-- ☁️ **Production Deployment** — Real-time systems with Celery, Redis, Django Channels
+I am actively learning, adaptable, and open to full-time roles across software development, backend engineering, web development, data-related roles, and AI-based teams. I am eager to grow in any challenging technical environment and contribute meaningfully to the organization.
 
 ---
 
