@@ -13,8 +13,9 @@
 <!-- ============================================ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Engineering+Fresher;Python+%7C+Backend+%7C+Web+Development;Hands-on+Projects+%26+Internship+Experience;Open+to+Full-Time+Roles+%26+Internships)](https://git.io/typing-svg)
 
-### Software Engineering Fresher | Backend & Web Development | AI Developer | Tech Enthusiast
-🤖 AI Developer | RAG Systems | Software Engineer | Speech Processing | NLP
+### Software Engineering Fresher | Backend & Web Development | Tech Enthusiast
+💻 Python | Backend Development | Web Applications | AI & ML Exposure
+
 </div>
 
 ---
