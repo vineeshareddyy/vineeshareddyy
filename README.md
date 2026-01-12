@@ -23,9 +23,9 @@
 ## 💼 Live Portfolio
 
 🎯 **Click to View My Portfolio:**  
-👉 [https://vineeshareddyy.github.io/portfolio/](https://vineeshareddyy.github.io/vineesha-portfolio/)
+👉 [https://vineeshareddyy.github.io/vineesha-portfolio/](https://vineeshareddyy.github.io/vineesha-portfolio/)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-blue?style=for-the-badge)](https://vineeshareddyy.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-blue?style=for-the-badge)](https://vineeshareddyy.github.io/vineesha-portfolio/)
 
 > Explore my interactive AI-powered portfolio showcasing real-world projects and innovations.
 
