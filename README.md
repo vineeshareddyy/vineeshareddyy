@@ -151,7 +151,7 @@ Sri Gayatri Junior College — 2021
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=radical&hide_border=true)
 
@@ -177,7 +177,7 @@ Sri Gayatri Junior College — 2021
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=radical&no-frame=true&no-bg=false&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=radical&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -195,7 +195,7 @@ Sri Gayatri Junior College — 2021
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineeshachinthakuntla@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinthakuntla-vineesha/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vineeshareddyy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vineeshareddyy.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vineeshareddyy.github.io/vineesha-portfolio/)
 
 ---
 
@@ -209,7 +209,7 @@ Sri Gayatri Junior College — 2021
 
 ### 📫 Feel free to reach out for collaborations or just a chat about AI!
 
-![Visitor Count](https://profile-counter.glitch.me/vineeshareddyy/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=vineeshareddyy&color=blueviolet&style=for-the-badge)
 
 ⭐ From [vineeshareddyy](https://github.com/vineeshareddyy)
 
