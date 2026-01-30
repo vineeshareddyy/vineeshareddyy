@@ -142,11 +142,23 @@ Sri Gayatri Junior College — 2021
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=default&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=radical&hide_border=true" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vineeshareddyy&theme=radical&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vineeshareddyy&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vineeshareddyy&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=vineeshareddyy&theme=radical&hide_border=true" />
+</picture>
 
 </div>
 
@@ -154,7 +166,11 @@ Sri Gayatri Junior College — 2021
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vineeshareddyy&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vineeshareddyy&theme=react-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vineeshareddyy&theme=github-light&hide_border=true&area=true" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vineeshareddyy&theme=react-dark&hide_border=true&area=true" />
+</picture>
 
 ---
 
@@ -162,7 +178,11 @@ Sri Gayatri Junior College — 2021
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=flat&no-frame=true&no-bg=true&row=1&column=6" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</picture>
 
 </div>
 
@@ -179,18 +199,10 @@ Sri Gayatri Junior College — 2021
 
 <div align="center">
 
-<a href="mailto:vineeshachinthakuntla@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/chinthakuntla-vineesha/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/vineeshareddyy" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://vineeshareddyy.github.io/vineesha-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
+<a href="mailto:vineeshachinthakuntla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+<a href="https://in.linkedin.com/in/chinthakuntla-vineesha-65b236273" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/vineeshareddyy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="https://vineeshareddyy.github.io/vineesha-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
