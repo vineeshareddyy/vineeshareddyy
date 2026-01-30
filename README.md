@@ -142,12 +142,23 @@ Sri Gayatri Junior College — 2021
 
 <div align="center">
 
-<!-- Using alternative Vercel deployments for better reliability -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vineeshareddyy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</picture>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=radical&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=default&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=radical&hide_border=true" />
+</picture>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vineeshareddyy&theme=radical&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vineeshareddyy&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vineeshareddyy&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=vineeshareddyy&theme=radical&hide_border=true" />
+</picture>
 
 </div>
 
@@ -155,7 +166,11 @@ Sri Gayatri Junior College — 2021
 
 ## 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vineeshareddyy&theme=react-dark&hide_border=true&area=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vineeshareddyy&theme=react-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vineeshareddyy&theme=github-light&hide_border=true&area=true" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vineeshareddyy&theme=react-dark&hide_border=true&area=true" />
+</picture>
 
 ---
 
@@ -163,7 +178,11 @@ Sri Gayatri Junior College — 2021
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=flat&no-frame=true&no-bg=true&row=1&column=6" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=vineeshareddyy&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</picture>
 
 </div>
 
