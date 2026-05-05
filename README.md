@@ -172,8 +172,6 @@ Ravindra Bharathi School — 2019
 
 <div align="center">
 
-## ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeshareddyy&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=vineeshareddyy&theme=radical&hide_border=true)
 
 </div>
