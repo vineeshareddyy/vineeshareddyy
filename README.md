@@ -27,18 +27,18 @@
 
 I'm an **early-career AI engineer** based in Hyderabad, currently working as an **Associate Engineer at Lanciere Technologies** where I ship production AI systems on **iMentora** — an AI-powered learning assessment platform combining real-time voice interaction, LLM-based evaluation, and biometric authentication.
 
-My day-to-day involves orchestrating LLM workflows with **OpenAI GPT-4 + LangChain**, building real-time voice pipelines with **Whisper (via Groq) + Edge TTS**, integrating speaker verification (**SpeechBrain ECAPA-VoxCeleb**) and computer vision (**YOLOv8**) for proctoring, and shipping all of it through **FastAPI microservices** backed by **MongoDB**, containerized with **Docker**.
+My day-to-day involves orchestrating LLM workflows with **OpenAI GPT-4 + LangChain**, building real-time voice pipelines with **Whisper (via Groq) + Edge TTS**, integrating speaker verification (**SpeechBrain ECAPA-VoxCeleb**) and computer vision (**InsightFace & YOLOv8**) for proctoring, and shipping all of it through **FastAPI microservices** backed by **MongoDB**, containerized with **Docker**.
 
-I'm interested in production AI systems where engineering rigor matters as much as model quality — the messy real-time work that turns research demos into products people actually use.
+I’m interested in building real-world AI systems where reliability and engineering matter as much as the models themselves.
 
 ### What I work on
 
-- 🤖 **LLM Systems** — RAG pipelines, prompt engineering, GPT-4 + LangChain orchestration, structured evaluation
+- 🤖 **LLM Systems** — RAG pipelines, prompt engineering, GPT-based workflows, structured evaluation
 - 🎙️ **Voice & Audio** — real-time STT/TTS pipelines, speaker verification, MFCC feature extraction, Whisper, Edge TTS
 - 👁️ **Computer Vision** — face recognition, YOLO-based monitoring, real-time frame analysis
-- 🌐 **Backend Engineering** — FastAPI microservices, Django REST APIs, MongoDB, Redis, WebSocket / Web Audio API
-- ⚙️ **Production Infrastructure** — Docker, docker-compose, async task queues (Celery), real-time channels
-- 🎨 **Full-Stack Development** — React.js, Tailwind CSS, REST API design, Bootstrap
+- 🌐 **Backend Engineering** — FastAPI microservices, Django REST APIs, MongoDB, Redis
+- ⚙️ **System Integration** — Connecting services, handling end-to-end workflows
+- 🧩 **Frontend Supportt** — Basic UI integration and API connectivity
 
 I'm open to roles in AI engineering, ML application development, backend engineering, and full-stack development at product companies and startups.
 
